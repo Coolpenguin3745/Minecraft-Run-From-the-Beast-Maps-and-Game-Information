@@ -17,7 +17,7 @@ Each player will go through the Randomizer, and they will get an item that will 
 
 ## Runner:
 
-The Runners must navigate the course, avoid being killed by the beast, and reach the end of the parkour course to equip themselves with items to potentially kill the beast. The equipment that the Runners get at the end is a full set of iron armour, sword, bow, and arrow, and golden apples.
+The Runners must navigate the course, avoid being killed by the beast, and reach the end of the parkour course to equip themselves with items to potentially kill the beast. The equipment that the Runners get at the end is a full set of iron armour, sword, bow, and arrow, enderpearl, and golden apples.
 
 ## Beast:
 
