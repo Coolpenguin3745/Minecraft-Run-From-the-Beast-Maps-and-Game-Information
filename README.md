@@ -5,15 +5,23 @@ A community project repository to add and have a bunch of Minecraft Run From the
 
 ## How to play Run From the Beast
 
-In progress will be updated soon
+Each player will go through the Randomizer, and they will get an item that will say Runner or Beast. The Runners must avoid the beast while doing a parkour course. At the end of the parkour course, they can equip themselves with armor and weapons to potentially kill the beast and win the game. The beast wins by killing all the runners. 
 
 ## Rules
 
-In progress will be updated soon
+1. Gamertags off
+
+2.  The round will end once all the Runners have died or if the Runners kill the Beast
 
 # Roles
 
-In progress will be updated soon
+## Runner:
+
+The Runners must navigate the course, avoid being killed by the beast, and reach the end of the parkour course to equip themselves with items to potentially kill the beast. The equipment that the Runners get at the end is a full set of iron armour, sword, bow, and arrow, and golden apples.
+
+## Beast:
+
+The beast's goal is to kill all the runners before they can reach the end of the parkour course and equip themselves with armour and tools. The beast wears a full set of Diamond Armour and a sword.
 
 # To Get Back To The Main Page:
 https://github.com/Coolpenguin3745/Minecraft-Gamemodes-Maps-and-Game-Information 
